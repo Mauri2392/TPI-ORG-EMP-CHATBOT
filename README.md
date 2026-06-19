@@ -17,8 +17,14 @@ Base simulada mediante diccionarios y listas
 
 # Estructura del proyecto 
 tpi_chatbot_soporte/
+
 │
+
 ├── main.py
+
 ├── datos.py
+
 ├── README.md
+
 └── capturas/
+
